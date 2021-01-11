@@ -89,6 +89,6 @@ Chọn **Cấu hình** > **Mua hàng nhận đơn**
 
 ![image](https://user-images.githubusercontent.com/75475064/101980326-0ebe1a80-3c97-11eb-9a3e-2445ebb582dd.png)
 
-## Cấu hình giao dịch nhà cung cấp
+## Cấu hình giao dịch nhà cung cấp 123
 
 ![image](https://user-images.githubusercontent.com/75475064/101980346-3319f700-3c97-11eb-9d0f-cef6fb9a82fa.png)
