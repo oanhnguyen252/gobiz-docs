@@ -108,4 +108,13 @@ Có thể bấm nút **Tạo khiếu nại người bán**(KNNB) từ:
     - Có thể nhập mã giao dịch Alipay đã tồn tại hoặc chưa tồn tại trên hệ thống
     
     - Chỉ chấp nhận giao dịch hoàn (có số tiền là cộng)
-
+    
+## Mã khiếu nại site gốc
+Với mỗi KNNB sẽ có mã khiếu nại site gốc. Tại màn hình chi tiết KNNB, nếu KNNB có mã khiếu nại trên site gốc thì bên cạnh có nút đồng bộ thông tin lấy được trên site gốc. Các thông tin lấy được gồm:
+    - Mã KN trên site gốc
+    - Thời gian gia hạn KN
+    - Trạng thái KN (Tiếng Trung)
+    - Mã vận đơn trả hàng (Có thể có hoặc ko)
+    - Mã hóa đơn gốc 
+    - Số tiền
+Khi hover chuột vào mã khiếu nại site gốc thì sẽ hiển thị lên các thông tin lấy được ở trên
